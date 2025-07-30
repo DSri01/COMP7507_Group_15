@@ -1,0 +1,60 @@
+{
+    "SHATIN": "Sha Tin", "Sha Tin": "Sha Tin", "SHA": "Sha Tin", "SKG": "Sha Tin",
+
+    "TSUEN WAN": "Tsuen Wan", "Tai Mo Shan": "Tsuen Wan", "SE1": "Tsuen Wan", "SSP": "Tsuen Wan", "TW": "Tsuen Wan", "TWN": "Tsuen Wan",
+    "Tsuen Wan" : "Tsuen Wan",
+
+    "CENTRAL": "Central and Western", "CENTRAL/WESTERN": "Central and Western", "The Peak": "Central and Western",
+    "Central Pier": "Central and Western", "Green Island": "Central and Western",
+
+    "EASTERN": "Eastern", "Shau Kei Wan": "Eastern", "NGP": "Eastern", "SKW": "Eastern", "North Point": "Eastern", "Shell Oil Depot": "Eastern",
+
+
+    "KWUN TONG": "Kwun Tong",
+
+
+    "TUEN MUN": "Tuen Mun", "Tuen Mun Children and Juvenile Home": "Tuen Mun", "TMS": "Tuen Mun", "Tuen Mun Government Offices": "Tuen Mun",
+
+
+    "TUNG CHUNG": "Islands", "Cheung Chau": "Islands", "Peng Chau": "Islands", "Waglan Island": "Islands", "Lamma Island": "Islands",
+    "Sha Chau": "Islands", "Bluff Head": "Islands", "Cheung Chau Beach": "Islands", "KP": "Islands", "KLT": "Islands",
+    "TY1": "Islands", "TYW": "Islands", "VP1": "Islands", "WGL": "Islands", "CCH": "Islands", "HKA": "Islands", "TPO": "Islands",
+    "PEN" : "Islands", "Hong Kong International Airport" : "Islands", "HKA" : "Islands",
+    "Ngong Ping" : "Islands", "NGP" : "Islands",
+
+
+    "SHAM SHUI PO": "Sham Shui Po", "Sham Shui Po" : "Sham Shui Po", "SSP" : "Sham Shui Po",
+
+
+    "SOUTHERN": "Southern", "HPV": "Southern", "Wong Chuk Hang": "Southern",
+
+
+    "YUEN LONG": "Yuen Long", "Lau Fau Shan": "Yuen Long", "Shek Kong": "Yuen Long", "JKB": "Yuen Long", "KSC": "Yuen Long",
+    "LFS": "Yuen Long", "TU1": "Yuen Long", "WLP": "Yuen Long", "YCT": "Yuen Long", "YLP": "Yuen Long", "Wetland Park": "Yuen Long",
+
+
+    "NORTH": "North", "Sheung Shui": "North", "Ta Kwu Ling": "North", "SEK": "North", "STY": "North", "TKL": "North",
+
+
+    "KWAI CHUNG": "Kwai Tsing", "Ching Pak House(Tsing Yi)": "Kwai Tsing",
+
+
+    "TSEUNG KWAN O": "Sai Kung", "Tseung Kwan O": "Sai Kung", "Kau Sai Chau": "Sai Kung", "Pak Tam Chung (Tsak Yue Wu)": "Sai Kung",
+    "HKP": "Sai Kung", "SSH": "Sai Kung", "Sai Kung" : "Sai Kung",
+
+
+    "TAI PO": "Tai Po", "Tai Mei Tuk": "Tai Po", "Tap Mun East": "Tai Po", "Tai Po Kau": "Tai Po", "TC": "Tai Po",
+    "PLC" : "Tai Po", "TAP MUN" : "Tai Po",
+
+
+    "MONG KOK": "Yau Tsim Mong", "King's Park": "Yau Tsim Mong", "HKO": "Yau Tsim Mong", "HKS": "Yau Tsim Mong",
+    "Star Ferry(Kowloon)": "Yau Tsim Mong", "(mm) at the Hong Kong Observatory": "Yau Tsim Mong",
+
+
+    "CAUSEWAY BAY": "Wan Chai", "CWB": "Wan Chai",
+
+
+    "Kai Tak": "Kowloon City", "KTG": "Kowloon City",
+
+    "Tate's Cairn": "Wong Tai Sin", "WTS": "Wong Tai Sin"
+}

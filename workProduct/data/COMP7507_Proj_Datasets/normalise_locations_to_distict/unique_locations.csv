@@ -1,0 +1,40 @@
+particles_loc,rainfall_loc,temperature_loc,windspeed_loc
+SHATIN,Cheung Chau,CCH,Bluff Head
+TSUEN WAN,Ching Pak House(Tsing Yi),CWB,Cheung Chau Beach
+CENTRAL,Hong Kong International Airport,HKA,Cheung Chau
+EASTERN,(mm) at the Hong Kong Observatory,HKO,Central Pier
+KWUN TONG,Tseung Kwan O,HKP,Green Island
+TUEN MUN,King's Park,HKS,Hong Kong International Airport
+TUNG CHUNG,Kau Sai Chau,HPV,Wong Chuk Hang
+SHAM SHUI PO,Lau Fau Shan,JKB,Tseung Kwan O
+SOUTHERN,Peng Chau,KLT,King's Park
+YUEN LONG,Tai Mei Tuk,KP,Lamma Island
+CENTRAL/WESTERN,Shek Kong,KSC,Lau Fau Shan
+NORTH,Kai Tak,KTG,Ngong Ping
+KWAI CHUNG,Sha Tin,LFS,North Point
+TAP MUN,Shau Kei Wan,NGP,Peng Chau
+TSEUNG KWAN O,Sheung Shui,PEN,Tai Mei Tuk
+TAI PO,Sham Shui Po,PLC,Sha Chau
+MONG KOK,Tate's Cairn,SE1,Shek Kong
+CAUSEWAY BAY,Ta Kwu Ling,SEK,Kai Tak
+,Tai Mo Shan,SHA,Star Ferry(Kowloon)
+,Tuen Mun Children and Juvenile Home,SKG,Sha Tin
+,Tsuen Wan,SKW,Shell Oil Depot
+,Pak Tam Chung (Tsak Yue Wu),SSH,Sai Kung
+,The Peak,SSP,Tate's Cairn
+,Waglan Island,STY,Ta Kwu Ling
+,Wetland Park,TC,Tap Mun East
+,,TKL,Tai Po Kau
+,,TMS,Tuen Mun Government Offices
+,,TPO,Waglan Island
+,,TU1,Wetland Park
+,,TW,
+,,TWN,
+,,TY1,
+,,TYW,
+,,VP1,
+,,WGL,
+,,WLP,
+,,WTS,
+,,YCT,
+,,YLP,
